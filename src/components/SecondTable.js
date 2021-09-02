@@ -81,9 +81,7 @@ export default function SecondTable({ rows, type }) {
                 align="left"
                 style={{ display: "flex", justifyContent: "center" }}
               >
-                {type !== "Semester 10" && (
-                  <CheckCircleIcon style={{ color: "#3c763d" }} />
-                )}
+                <CheckCircleIcon style={{ color: "#3c763d" }} />
               </StyledTableCell>
             </StyledTableRow>
           ))}
