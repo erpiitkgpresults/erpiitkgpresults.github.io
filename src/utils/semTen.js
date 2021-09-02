@@ -7,11 +7,11 @@ export const semTen = () => {
     createDataForTableOne(
       "Curricula - Registered - Cleared",
       "2 - 0 - 0",
-      "3(1-O) - 0 - 0",
+      "3(1-O) - 3(1-O) - 3(1-O)",
       "0 - 0 - 0",
       "0 - 0 - 0",
       "0 - 0 - 0",
-      "74 - 69 - 69"
+      "74 - 74 - 74"
     ),
   ];
 
@@ -22,9 +22,9 @@ export const semTen = () => {
       "Depth",
       "0-0-0",
       "2",
-      "",
-      "",
-      ""
+      "10",
+      "SP-20-21(P)",
+      "B"
     ),
     createDataForTableTwo(
       "PH57002",
@@ -32,60 +32,51 @@ export const semTen = () => {
       "Depth",
       "0-0-15",
       "10",
-      "",
-      "",
-      ""
+      "10",
+      "SP-20-21(P)",
+      "D"
     ),
     createDataForTableTwo(
-      "",
-      "",
+      "EP60010",
+      "FINANCING NEW VENTURE",
       "Elective VIII(Flexi)",
-      "",
-      "",
-      "",
-      "",
-      ""
-    ),createDataForTableTwo(
-      "",
-      "",
-      "Elective VIII(Flexi)",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "3-0-0",
+      "3",
+      "10",
+      "SP-20-21(P)",
+      "A"
     ),
     createDataForTableTwo(
-        "",
-        "",
-        "Elective VI",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ),
+      "PH61014",
+      "PHYSICS OF RENEWABLE ENERGY SYSTEMS",
+      "Elective VI",
+      "3-1-0",
+      "4",
+      "10",
+      "SP-20-21(P)",
+      "B"
+    ),
       createDataForTableTwo(
-        "",
-        "",
+        "AI61002",
+        "DEEP LEARNING FOUNDATIONS AND APPLICATIONS",
         "Elective VII",
-        "",
-        "",
-        "",
-        "",
-        ""
+        "3-1-0",
+        "4",
+        "10",
+        "SP-20-21(P)",
+        "A"
       ),
   ];
 
   const rowsForTableThree = [
     createDataForTableThree(
       "Semester - 10",
-      "-",
-      "-",
-      "--",
-      "-",
-      "-",
-      "-"
+      "229 - 229",
+      "23 - 23",
+      "7.51 - 7.51 - 7.87",
+      "6 - 6",
+      "0 - 0",
+      "8.00 - 0.00"
     ),
   ];
 
