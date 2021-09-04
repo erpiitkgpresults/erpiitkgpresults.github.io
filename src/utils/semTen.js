@@ -24,7 +24,7 @@ export const semTen = () => {
       "2",
       "10",
       "SP-20-21(P)",
-      "B"
+      "A"
     ),
     createDataForTableTwo(
       "PH57002",
@@ -34,7 +34,7 @@ export const semTen = () => {
       "10",
       "10",
       "SP-20-21(P)",
-      "D"
+      "C"
     ),
     createDataForTableTwo(
       "EP60010",
@@ -73,7 +73,7 @@ export const semTen = () => {
       "Semester - 10",
       "229 - 229",
       "23 - 23",
-      "7.51 - 7.51 - 7.87",
+      "7.51 - 7.51 - 8.78",
       "6 - 6",
       "0 - 0",
       "8.00 - 0.00"
